@@ -1,4 +1,4 @@
-# Topic-Modelling-using-Latent-Dirichlet-Allocation-Algorithm
+# Topic-Modelling-using-Latent-Dirichlet-Allocation-Algorithm from scratch
 
 **About the Project:** We have the famous 20Newsgroups Dataset here with 200 documents present in it with words present in each document. Now with such huge volume of data, it will be very difficult to go through the entire data and categorise the data into few broad topics. This is what the LDA Algorithm does using Gibbs Sampling. Each topic has a few frequent words based on which we can guess what that topic represents. The algorithm will help us build 2 key matrices:
 
